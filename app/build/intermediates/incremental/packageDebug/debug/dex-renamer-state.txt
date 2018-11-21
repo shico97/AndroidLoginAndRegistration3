@@ -1,0 +1,4 @@
+#Thu Nov 22 00:33:21 GMT+02:00 2018
+base.0=C\:\\Users\\sherif hesham\\Desktop\\New folder\\AndroidLoginAndRegistration26\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

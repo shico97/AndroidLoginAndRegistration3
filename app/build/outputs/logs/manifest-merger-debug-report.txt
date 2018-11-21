@@ -1,0 +1,772 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:2:1-77:12
+MERGED from [com.google.android.gms:play-services:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-11.4.0.aar\77d290374ee114357d5657943909a2e5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\20d3b3d19524c7c932f9a03b2890729e\AndroidManifest.xml:1:70-7:12
+MERGED from [com.google.android.gms:play-services-cast-framework:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.0.aar\4826f5cac311ad648b4811d349b1a038\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.4.0.aar\08ea7e4aaed9efddd235af6d8c1ba551\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\de9bca15b760b6bf525d3295dd433788\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\04ef876dc926f89f0e898a33dd71b9f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\975c32bc842938f2360ba35bd1abdeed\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.4.0.aar\8dab6067533fd520543315e28bc28bbb\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.0.aar\ed803c2e04004cf0951b3c2c78606ca8\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-tagmanager:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.4.0.aar\0a6f521b15fe14686eeaf5bbc30b539c\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.4.0.aar\889b5df1d0cb14eb0d03f789f0eaea09\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.0.aar\08ad2512f4f3745811f0c8485b8d907d\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.0.aar\b0f2c977d14a8b59d1145e975ea23b74\AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.4.0.aar\c99bc80e88426af98fbc037a339415f7\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.4.0.aar\80872c67c3df6879c2736dc1b64d9847\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-config:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-config-11.4.0.aar\e6eb7343ef2224674a1fe77e251f2c9e\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.4.0.aar\7a9bc44dbfa87b9c78218972cbc2ce47\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-games-11.4.0.aar\802e3a4511c86b3e797c8009b3c73843\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.4.0.aar\84410ef9ec175d10fc1ec9fd59dfc6e5\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-fido:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.4.0.aar\cc6fc14e2e0108981d0b7cda900352e9\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.4.0.aar\927e38d497a27dcb5189df872fb2498c\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-dynamic-links:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.4.0.aar\06632ba8030751aeb853450bb820262a\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fitness:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.4.0.aar\61a0f375f5deaf8940762a9dc9fc4227\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.0.aar\9a344b3158dfeea0a3705918e0fd6982\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.4.0.aar\1cd5bd44dc411f95497305e7e594e381\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wallet:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.4.0.aar\273a95081fb02a4f09cff921f9feb4f9\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.4.0.aar\ab76d0ca43225f097e8eb9925eabd2b3\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.0.aar\613b7ce1377a70b6542a2966e60bf60f\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.4.0.aar\2f456b1a875828e67803ccfe0a737170\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\c1b9e3225b18258aa5a593a17b22debc\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-places-11.4.0.aar\156e2de202c2ae2cacb47fd9a5c8f594\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.0.aar\55401e43239f1b88d6f0e9b125586f03\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.4.0.aar\d0e962307ca7c183c74c0102574a96fd\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.4.0.aar\0e77ca59a522733e2875cb1a9d6477d9\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.4.0.aar\44cf3fb8cc14bed4f158274a2a94ced6\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.4.0.aar\478718ac5c4b36300c5734a559bbd3a3\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.4.0.aar\637e9c66b0afec07748ce6cbd6aeb895\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.4.0.aar\01d26b8ef73add7eea4dfa76a4f57b35\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.4.0.aar\02613fa917ab16a77e21bd401290d100\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\dbcf50de9ab9dccf3a1c9d689ed42679\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-crash:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.4.0.aar\564b8eaf145a509f4f64658c91e4ad2f\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-database:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-database-11.4.0.aar\783bd9fcb66d72d2a6b09702323ec8c6\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.4.0.aar\438d8cf95c1a15f5026ba6d686c924a0\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.0.aar\af75134a5fc52178794c4f53ca100548\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\2fb00e2ab3af3421c043b79ea62cd96b\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-storage:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.4.0.aar\d27b26e8946689fe764578d756c8fcee\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.4.0.aar\87cabf0d4762b2780b74643f686b19f4\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.0.aar\0f9644978f67fc5751e416051b053f6d\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gass:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.4.0.aar\d17501af0b982b64105e853f9b8dc912\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\39de93c1d6c73f4af0fe3980ccfa0eff\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\87db4d9d58fa9563036247c861a1aeef\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\aabb349577873772f39f1279e786dd9d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\f193982eb3202aed69271abcc3bb0ddc\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\33a41395eece043eda27f7be94d09265\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\742d1385c82f9937e10700f892915883\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\96f1a6ad5d18060733f25f52b60eeeba\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\004caaaa12ec4f4ef37706b9e77dcf0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\d4ee47dff0802e470405b6eb756a8456\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\5faed8ac8c4d7891bca2177eb4507bf2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\ee79e93b4c2f56341aad91209569a722\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\761dbf4d1a4b42403729eda9bc7f6a88\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\97cc75cb777c07d48eab6ae84aa8dd8d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1be3420e6f034435dc30269d3e3ba224\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\91fe5f31b7e862c2cfc9a33e11e60fc3\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:2:1-77:12
+	package
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.0.aar\ed803c2e04004cf0951b3c2c78606ca8\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.0.aar\ed803c2e04004cf0951b3c2c78606ca8\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.0.aar\08ad2512f4f3745811f0c8485b8d907d\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.0.aar\08ad2512f4f3745811f0c8485b8d907d\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.0.aar\9a344b3158dfeea0a3705918e0fd6982\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.0.aar\9a344b3158dfeea0a3705918e0fd6982\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.0.aar\613b7ce1377a70b6542a2966e60bf60f\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.0.aar\613b7ce1377a70b6542a2966e60bf60f\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.0.aar\55401e43239f1b88d6f0e9b125586f03\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.0.aar\55401e43239f1b88d6f0e9b125586f03\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.4.0.aar\564b8eaf145a509f4f64658c91e4ad2f\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.4.0.aar\564b8eaf145a509f4f64658c91e4ad2f\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\2fb00e2ab3af3421c043b79ea62cd96b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\2fb00e2ab3af3421c043b79ea62cd96b\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.0.aar\ed803c2e04004cf0951b3c2c78606ca8\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.0.aar\ed803c2e04004cf0951b3c2c78606ca8\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.0.aar\08ad2512f4f3745811f0c8485b8d907d\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.0.aar\08ad2512f4f3745811f0c8485b8d907d\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.0.aar\55401e43239f1b88d6f0e9b125586f03\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.0.aar\55401e43239f1b88d6f0e9b125586f03\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.4.0.aar\d0e962307ca7c183c74c0102574a96fd\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.4.0.aar\d0e962307ca7c183c74c0102574a96fd\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\2fb00e2ab3af3421c043b79ea62cd96b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\2fb00e2ab3af3421c043b79ea62cd96b\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:21:22-72
+application
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:23:5-75:19
+MERGED from [com.google.android.gms:play-services:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-11.4.0.aar\77d290374ee114357d5657943909a2e5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-11.4.0.aar\77d290374ee114357d5657943909a2e5\AndroidManifest.xml:5:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\20d3b3d19524c7c932f9a03b2890729e\AndroidManifest.xml:5:5-19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\20d3b3d19524c7c932f9a03b2890729e\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.0.aar\4826f5cac311ad648b4811d349b1a038\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.0.aar\4826f5cac311ad648b4811d349b1a038\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.4.0.aar\08ea7e4aaed9efddd235af6d8c1ba551\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.4.0.aar\08ea7e4aaed9efddd235af6d8c1ba551\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\de9bca15b760b6bf525d3295dd433788\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\de9bca15b760b6bf525d3295dd433788\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\975c32bc842938f2360ba35bd1abdeed\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\975c32bc842938f2360ba35bd1abdeed\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.0.aar\ed803c2e04004cf0951b3c2c78606ca8\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.0.aar\ed803c2e04004cf0951b3c2c78606ca8\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:26:5-31:19
+MERGED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:26:5-31:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.4.0.aar\889b5df1d0cb14eb0d03f789f0eaea09\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.4.0.aar\889b5df1d0cb14eb0d03f789f0eaea09\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.0.aar\08ad2512f4f3745811f0c8485b8d907d\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.0.aar\08ad2512f4f3745811f0c8485b8d907d\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.0.aar\b0f2c977d14a8b59d1145e975ea23b74\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.0.aar\b0f2c977d14a8b59d1145e975ea23b74\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.firebase:firebase-config:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-config-11.4.0.aar\e6eb7343ef2224674a1fe77e251f2c9e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-config-11.4.0.aar\e6eb7343ef2224674a1fe77e251f2c9e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.4.0.aar\7a9bc44dbfa87b9c78218972cbc2ce47\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.4.0.aar\7a9bc44dbfa87b9c78218972cbc2ce47\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-games-11.4.0.aar\802e3a4511c86b3e797c8009b3c73843\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-games-11.4.0.aar\802e3a4511c86b3e797c8009b3c73843\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.4.0.aar\84410ef9ec175d10fc1ec9fd59dfc6e5\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.4.0.aar\84410ef9ec175d10fc1ec9fd59dfc6e5\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fido:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.4.0.aar\cc6fc14e2e0108981d0b7cda900352e9\AndroidManifest.xml:5:3-6:17
+MERGED from [com.google.android.gms:play-services-fido:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.4.0.aar\cc6fc14e2e0108981d0b7cda900352e9\AndroidManifest.xml:5:3-6:17
+MERGED from [com.google.firebase:firebase-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.4.0.aar\927e38d497a27dcb5189df872fb2498c\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.4.0.aar\927e38d497a27dcb5189df872fb2498c\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.4.0.aar\06632ba8030751aeb853450bb820262a\AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-dynamic-links:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.4.0.aar\06632ba8030751aeb853450bb820262a\AndroidManifest.xml:5:3-17
+MERGED from [com.google.android.gms:play-services-fitness:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.4.0.aar\61a0f375f5deaf8940762a9dc9fc4227\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.4.0.aar\61a0f375f5deaf8940762a9dc9fc4227\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.0.aar\9a344b3158dfeea0a3705918e0fd6982\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.0.aar\9a344b3158dfeea0a3705918e0fd6982\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.4.0.aar\1cd5bd44dc411f95497305e7e594e381\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.4.0.aar\1cd5bd44dc411f95497305e7e594e381\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.4.0.aar\ab76d0ca43225f097e8eb9925eabd2b3\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.4.0.aar\ab76d0ca43225f097e8eb9925eabd2b3\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.0.aar\613b7ce1377a70b6542a2966e60bf60f\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.0.aar\613b7ce1377a70b6542a2966e60bf60f\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\c1b9e3225b18258aa5a593a17b22debc\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\c1b9e3225b18258aa5a593a17b22debc\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-places-11.4.0.aar\156e2de202c2ae2cacb47fd9a5c8f594\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-places-11.4.0.aar\156e2de202c2ae2cacb47fd9a5c8f594\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.0.aar\55401e43239f1b88d6f0e9b125586f03\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.0.aar\55401e43239f1b88d6f0e9b125586f03\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.4.0.aar\d0e962307ca7c183c74c0102574a96fd\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.4.0.aar\d0e962307ca7c183c74c0102574a96fd\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.4.0.aar\0e77ca59a522733e2875cb1a9d6477d9\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.4.0.aar\0e77ca59a522733e2875cb1a9d6477d9\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.4.0.aar\44cf3fb8cc14bed4f158274a2a94ced6\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.4.0.aar\44cf3fb8cc14bed4f158274a2a94ced6\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.4.0.aar\478718ac5c4b36300c5734a559bbd3a3\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.4.0.aar\478718ac5c4b36300c5734a559bbd3a3\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.4.0.aar\637e9c66b0afec07748ce6cbd6aeb895\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.4.0.aar\637e9c66b0afec07748ce6cbd6aeb895\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.4.0.aar\01d26b8ef73add7eea4dfa76a4f57b35\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.4.0.aar\01d26b8ef73add7eea4dfa76a4f57b35\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.4.0.aar\02613fa917ab16a77e21bd401290d100\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.4.0.aar\02613fa917ab16a77e21bd401290d100\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\dbcf50de9ab9dccf3a1c9d689ed42679\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\dbcf50de9ab9dccf3a1c9d689ed42679\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-crash:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.4.0.aar\564b8eaf145a509f4f64658c91e4ad2f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.4.0.aar\564b8eaf145a509f4f64658c91e4ad2f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.0.aar\af75134a5fc52178794c4f53ca100548\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.0.aar\af75134a5fc52178794c4f53ca100548\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\2fb00e2ab3af3421c043b79ea62cd96b\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\2fb00e2ab3af3421c043b79ea62cd96b\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.0.aar\0f9644978f67fc5751e416051b053f6d\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.0.aar\0f9644978f67fc5751e416051b053f6d\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-gass:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.4.0.aar\d17501af0b982b64105e853f9b8dc912\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.4.0.aar\d17501af0b982b64105e853f9b8dc912\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\39de93c1d6c73f4af0fe3980ccfa0eff\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\39de93c1d6c73f4af0fe3980ccfa0eff\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\87db4d9d58fa9563036247c861a1aeef\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\87db4d9d58fa9563036247c861a1aeef\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\aabb349577873772f39f1279e786dd9d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\aabb349577873772f39f1279e786dd9d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\f193982eb3202aed69271abcc3bb0ddc\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\f193982eb3202aed69271abcc3bb0ddc\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\96f1a6ad5d18060733f25f52b60eeeba\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\96f1a6ad5d18060733f25f52b60eeeba\AndroidManifest.xml:22:5-23:19
+	android:label
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:28:9-40
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:24:9-42
+activity#info.androidhive.loginandregistration.activity.LoginActivity
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:29:9-39:20
+	android:label
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:31:13-45
+	android:launchMode
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:32:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:30:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:37:27-74
+activity#info.androidhive.loginandregistration.activity.RegisterActivity
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:40:9-44:55
+	android:label
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:42:13-45
+	android:launchMode
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:43:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:44:13-52
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:41:13-54
+activity#info.androidhive.loginandregistration.activity.MainActivity
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:45:9-48:46
+	android:label
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:47:13-45
+	android:launchMode
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:46:13-50
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:57:9-59:71
+	android:value
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:59:13-68
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:58:13-58
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:60:9-62:69
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\87db4d9d58fa9563036247c861a1aeef\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\87db4d9d58fa9563036247c861a1aeef\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:62:13-66
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:61:13-58
+activity#info.androidhive.loginandregistration.activity.MapsActivity
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:64:9-72:20
+	android:label
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:66:13-56
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:65:13-50
+activity#info.androidhive.loginandregistration.activity.Main2Activity
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:73:9-60
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:73:19-57
+activity#info.androidhive.loginandregistration.activity.Reviews
+ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:74:9-63
+	android:name
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml:74:19-51
+uses-sdk
+INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-11.4.0.aar\77d290374ee114357d5657943909a2e5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-11.4.0.aar\77d290374ee114357d5657943909a2e5\AndroidManifest.xml:4:5-43
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\20d3b3d19524c7c932f9a03b2890729e\AndroidManifest.xml:3:5-72
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\20d3b3d19524c7c932f9a03b2890729e\AndroidManifest.xml:3:5-72
+MERGED from [com.google.android.gms:play-services-cast-framework:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.0.aar\4826f5cac311ad648b4811d349b1a038\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.0.aar\4826f5cac311ad648b4811d349b1a038\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.4.0.aar\08ea7e4aaed9efddd235af6d8c1ba551\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.4.0.aar\08ea7e4aaed9efddd235af6d8c1ba551\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\de9bca15b760b6bf525d3295dd433788\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\de9bca15b760b6bf525d3295dd433788\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\04ef876dc926f89f0e898a33dd71b9f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\04ef876dc926f89f0e898a33dd71b9f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\975c32bc842938f2360ba35bd1abdeed\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\975c32bc842938f2360ba35bd1abdeed\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.4.0.aar\8dab6067533fd520543315e28bc28bbb\AndroidManifest.xml:17:5-94
+MERGED from [com.google.android.gms:play-services-ads:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.4.0.aar\8dab6067533fd520543315e28bc28bbb\AndroidManifest.xml:17:5-94
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.0.aar\ed803c2e04004cf0951b3c2c78606ca8\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.0.aar\ed803c2e04004cf0951b3c2c78606ca8\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.4.0.aar\0a6f521b15fe14686eeaf5bbc30b539c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.4.0.aar\0a6f521b15fe14686eeaf5bbc30b539c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.4.0.aar\889b5df1d0cb14eb0d03f789f0eaea09\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.4.0.aar\889b5df1d0cb14eb0d03f789f0eaea09\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.0.aar\08ad2512f4f3745811f0c8485b8d907d\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.0.aar\08ad2512f4f3745811f0c8485b8d907d\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.0.aar\b0f2c977d14a8b59d1145e975ea23b74\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.0.aar\b0f2c977d14a8b59d1145e975ea23b74\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.4.0.aar\c99bc80e88426af98fbc037a339415f7\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.4.0.aar\c99bc80e88426af98fbc037a339415f7\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-base:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.4.0.aar\80872c67c3df6879c2736dc1b64d9847\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.4.0.aar\80872c67c3df6879c2736dc1b64d9847\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-config:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-config-11.4.0.aar\e6eb7343ef2224674a1fe77e251f2c9e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-config-11.4.0.aar\e6eb7343ef2224674a1fe77e251f2c9e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.4.0.aar\7a9bc44dbfa87b9c78218972cbc2ce47\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.4.0.aar\7a9bc44dbfa87b9c78218972cbc2ce47\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-games-11.4.0.aar\802e3a4511c86b3e797c8009b3c73843\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-games-11.4.0.aar\802e3a4511c86b3e797c8009b3c73843\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.4.0.aar\84410ef9ec175d10fc1ec9fd59dfc6e5\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.4.0.aar\84410ef9ec175d10fc1ec9fd59dfc6e5\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fido:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.4.0.aar\cc6fc14e2e0108981d0b7cda900352e9\AndroidManifest.xml:4:3-41
+MERGED from [com.google.android.gms:play-services-fido:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.4.0.aar\cc6fc14e2e0108981d0b7cda900352e9\AndroidManifest.xml:4:3-41
+MERGED from [com.google.firebase:firebase-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.4.0.aar\927e38d497a27dcb5189df872fb2498c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.4.0.aar\927e38d497a27dcb5189df872fb2498c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.4.0.aar\06632ba8030751aeb853450bb820262a\AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-dynamic-links:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.4.0.aar\06632ba8030751aeb853450bb820262a\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-fitness:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.4.0.aar\61a0f375f5deaf8940762a9dc9fc4227\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.4.0.aar\61a0f375f5deaf8940762a9dc9fc4227\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.0.aar\9a344b3158dfeea0a3705918e0fd6982\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.0.aar\9a344b3158dfeea0a3705918e0fd6982\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.4.0.aar\1cd5bd44dc411f95497305e7e594e381\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.4.0.aar\1cd5bd44dc411f95497305e7e594e381\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.4.0.aar\273a95081fb02a4f09cff921f9feb4f9\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.4.0.aar\273a95081fb02a4f09cff921f9feb4f9\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.4.0.aar\ab76d0ca43225f097e8eb9925eabd2b3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.4.0.aar\ab76d0ca43225f097e8eb9925eabd2b3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.0.aar\613b7ce1377a70b6542a2966e60bf60f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.0.aar\613b7ce1377a70b6542a2966e60bf60f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.4.0.aar\2f456b1a875828e67803ccfe0a737170\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.4.0.aar\2f456b1a875828e67803ccfe0a737170\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\c1b9e3225b18258aa5a593a17b22debc\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\c1b9e3225b18258aa5a593a17b22debc\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-places-11.4.0.aar\156e2de202c2ae2cacb47fd9a5c8f594\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-places-11.4.0.aar\156e2de202c2ae2cacb47fd9a5c8f594\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.0.aar\55401e43239f1b88d6f0e9b125586f03\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.0.aar\55401e43239f1b88d6f0e9b125586f03\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.4.0.aar\d0e962307ca7c183c74c0102574a96fd\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.4.0.aar\d0e962307ca7c183c74c0102574a96fd\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.4.0.aar\0e77ca59a522733e2875cb1a9d6477d9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.4.0.aar\0e77ca59a522733e2875cb1a9d6477d9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.4.0.aar\44cf3fb8cc14bed4f158274a2a94ced6\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.4.0.aar\44cf3fb8cc14bed4f158274a2a94ced6\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.4.0.aar\478718ac5c4b36300c5734a559bbd3a3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.4.0.aar\478718ac5c4b36300c5734a559bbd3a3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.4.0.aar\637e9c66b0afec07748ce6cbd6aeb895\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.4.0.aar\637e9c66b0afec07748ce6cbd6aeb895\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.4.0.aar\01d26b8ef73add7eea4dfa76a4f57b35\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.4.0.aar\01d26b8ef73add7eea4dfa76a4f57b35\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.4.0.aar\02613fa917ab16a77e21bd401290d100\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.4.0.aar\02613fa917ab16a77e21bd401290d100\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\dbcf50de9ab9dccf3a1c9d689ed42679\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\dbcf50de9ab9dccf3a1c9d689ed42679\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.4.0.aar\564b8eaf145a509f4f64658c91e4ad2f\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.4.0.aar\564b8eaf145a509f4f64658c91e4ad2f\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-database-11.4.0.aar\783bd9fcb66d72d2a6b09702323ec8c6\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-database-11.4.0.aar\783bd9fcb66d72d2a6b09702323ec8c6\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.4.0.aar\438d8cf95c1a15f5026ba6d686c924a0\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.4.0.aar\438d8cf95c1a15f5026ba6d686c924a0\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.0.aar\af75134a5fc52178794c4f53ca100548\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.0.aar\af75134a5fc52178794c4f53ca100548\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\2fb00e2ab3af3421c043b79ea62cd96b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\2fb00e2ab3af3421c043b79ea62cd96b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.4.0.aar\d27b26e8946689fe764578d756c8fcee\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.4.0.aar\d27b26e8946689fe764578d756c8fcee\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.4.0.aar\87cabf0d4762b2780b74643f686b19f4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.4.0.aar\87cabf0d4762b2780b74643f686b19f4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.0.aar\0f9644978f67fc5751e416051b053f6d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.0.aar\0f9644978f67fc5751e416051b053f6d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.4.0.aar\d17501af0b982b64105e853f9b8dc912\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.4.0.aar\d17501af0b982b64105e853f9b8dc912\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\39de93c1d6c73f4af0fe3980ccfa0eff\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\39de93c1d6c73f4af0fe3980ccfa0eff\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\87db4d9d58fa9563036247c861a1aeef\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\87db4d9d58fa9563036247c861a1aeef\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\aabb349577873772f39f1279e786dd9d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\aabb349577873772f39f1279e786dd9d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\f193982eb3202aed69271abcc3bb0ddc\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\f193982eb3202aed69271abcc3bb0ddc\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\33a41395eece043eda27f7be94d09265\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\33a41395eece043eda27f7be94d09265\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\742d1385c82f9937e10700f892915883\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\742d1385c82f9937e10700f892915883\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\96f1a6ad5d18060733f25f52b60eeeba\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\96f1a6ad5d18060733f25f52b60eeeba\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\004caaaa12ec4f4ef37706b9e77dcf0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\004caaaa12ec4f4ef37706b9e77dcf0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\d4ee47dff0802e470405b6eb756a8456\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\d4ee47dff0802e470405b6eb756a8456\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\5faed8ac8c4d7891bca2177eb4507bf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\5faed8ac8c4d7891bca2177eb4507bf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\ee79e93b4c2f56341aad91209569a722\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\ee79e93b4c2f56341aad91209569a722\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\761dbf4d1a4b42403729eda9bc7f6a88\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\761dbf4d1a4b42403729eda9bc7f6a88\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\97cc75cb777c07d48eab6ae84aa8dd8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\97cc75cb777c07d48eab6ae84aa8dd8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1be3420e6f034435dc30269d3e3ba224\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1be3420e6f034435dc30269d3e3ba224\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\91fe5f31b7e862c2cfc9a33e11e60fc3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\91fe5f31b7e862c2cfc9a33e11e60fc3\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.4.0.aar\8dab6067533fd520543315e28bc28bbb\AndroidManifest.xml:17:42-92
+	android:targetSdkVersion
+		INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sherif hesham\Desktop\New folder\AndroidLoginAndRegistration26\AndroidLoginAndRegistration\app\src\main\AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.0.aar\4826f5cac311ad648b4811d349b1a038\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.0.aar\4826f5cac311ad648b4811d349b1a038\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.0.aar\4826f5cac311ad648b4811d349b1a038\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.0.aar\4826f5cac311ad648b4811d349b1a038\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.0.aar\4826f5cac311ad648b4811d349b1a038\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.0.aar\4826f5cac311ad648b4811d349b1a038\AndroidManifest.xml:7:18-90
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.0.aar\ed803c2e04004cf0951b3c2c78606ca8\AndroidManifest.xml:25:9-257
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.0.aar\ed803c2e04004cf0951b3c2c78606ca8\AndroidManifest.xml:25:231-255
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.0.aar\ed803c2e04004cf0951b3c2c78606ca8\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.0.aar\ed803c2e04004cf0951b3c2c78606ca8\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.0.aar\ed803c2e04004cf0951b3c2c78606ca8\AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.0.aar\08ad2512f4f3745811f0c8485b8d907d\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.0.aar\08ad2512f4f3745811f0c8485b8d907d\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\2fb00e2ab3af3421c043b79ea62cd96b\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\2fb00e2ab3af3421c043b79ea62cd96b\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:27:9-28:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:27:85-107
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:27:108-132
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:27:19-84
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:29:9-132
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:29:83-105
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:29:106-130
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:29:18-82
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:30:9-192
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:30:143-165
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:30:166-190
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:30:86-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.0.aar\279101c7c138d5427944792508cbed52\AndroidManifest.xml:30:18-85
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.0.aar\c5240be340044c6351ae0f1016961cdb\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.0.aar\b0f2c977d14a8b59d1145e975ea23b74\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.0.aar\b0f2c977d14a8b59d1145e975ea23b74\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.0.aar\b0f2c977d14a8b59d1145e975ea23b74\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.0.aar\b0f2c977d14a8b59d1145e975ea23b74\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.0.aar\b0f2c977d14a8b59d1145e975ea23b74\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.0.aar\b0f2c977d14a8b59d1145e975ea23b74\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.0.aar\b0f2c977d14a8b59d1145e975ea23b74\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.0.aar\b0f2c977d14a8b59d1145e975ea23b74\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.0.aar\b0f2c977d14a8b59d1145e975ea23b74\AndroidManifest.xml:24:18-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.0.aar\9a344b3158dfeea0a3705918e0fd6982\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.0.aar\613b7ce1377a70b6542a2966e60bf60f\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.0.aar\613b7ce1377a70b6542a2966e60bf60f\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.0.aar\9a344b3158dfeea0a3705918e0fd6982\AndroidManifest.xml:20:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.0.aar\55401e43239f1b88d6f0e9b125586f03\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.0.aar\55401e43239f1b88d6f0e9b125586f03\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.0.aar\55401e43239f1b88d6f0e9b125586f03\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\dbcf50de9ab9dccf3a1c9d689ed42679\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\dbcf50de9ab9dccf3a1c9d689ed42679\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\dbcf50de9ab9dccf3a1c9d689ed42679\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\dbcf50de9ab9dccf3a1c9d689ed42679\AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.0.aar\af75134a5fc52178794c4f53ca100548\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.0.aar\af75134a5fc52178794c4f53ca100548\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.0.aar\af75134a5fc52178794c4f53ca100548\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.0.aar\af75134a5fc52178794c4f53ca100548\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.0.aar\af75134a5fc52178794c4f53ca100548\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.0.aar\af75134a5fc52178794c4f53ca100548\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.0.aar\af75134a5fc52178794c4f53ca100548\AndroidManifest.xml:25:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:25:118-142
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:25:94-117
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.0.aar\7962cd6b76d2f629af7441d407afbc28\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\2fb00e2ab3af3421c043b79ea62cd96b\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\2fb00e2ab3af3421c043b79ea62cd96b\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\2fb00e2ab3af3421c043b79ea62cd96b\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\2fb00e2ab3af3421c043b79ea62cd96b\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\ec02e45cf173d092761279bc07cdc1bb\AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:24:17-71
+permission#info.androidhive.loginandregistration.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:26:22-76
+uses-permission#info.androidhive.loginandregistration.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:31:13-34:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+info.androidhive.loginandregistration
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:33:27-58
+category#info.androidhive.loginandregistration
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\7597ad46d110fc83d2017a97442434b9\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.0.aar\0f9644978f67fc5751e416051b053f6d\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.0.aar\0f9644978f67fc5751e416051b053f6d\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.0.aar\0f9644978f67fc5751e416051b053f6d\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.0.aar\0f9644978f67fc5751e416051b053f6d\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.4.0] C:\Users\sherif hesham\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.0.aar\0f9644978f67fc5751e416051b053f6d\AndroidManifest.xml:6:79-143

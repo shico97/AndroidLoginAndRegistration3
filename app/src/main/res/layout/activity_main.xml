@@ -1,0 +1,68 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout">
+
+        <TextView
+            android:id="@+id/email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13sp" />
+
+        <Button
+            android:id="@+id/btnLogout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dip"
+            android:background="@color/btn_logut_bg"
+            android:text="@string/btn_logout"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/linearLayout"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/linearLayout"
+        android:layout_marginEnd="54dp"
+        android:layout_marginRight="54dp"
+        android:background="@color/bg_main"
+        android:onClick="Map"
+        android:text="MAP" />
+
+    <ListView
+        android:id="@+id/Places"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/linearLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="31dp" />
+
+    <Button
+        android:id="@+id/Show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="17dp"
+        android:layout_marginRight="17dp"
+        android:layout_toLeftOf="@+id/button2"
+        android:layout_toStartOf="@+id/button2"
+        android:text="Ratings" />
+
+</RelativeLayout>
